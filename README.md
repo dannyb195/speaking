@@ -16,4 +16,4 @@ list of events ive spoken at
 13. WordCamp Minneapolis 2016 (Foundation Friday session / Helped Organize)
 
 ## Bio
-Dan has been working with WordPress since about 2009 and has loved every MINUTE_IN_SECONDS of it. He has been a freelancer, in-house developer, and remote employee, and now is a Team Lead at Crowd Favorite, where he enjoys the challenge of planning projects and guiding other developers.  When he is not coding, Dan spends time working on his house, playing with his 2 Siberian Huskies, and helping people learn WordPress development through speaking, mentoring, and writing on his <a href="http://addactiondan.me">blog</a>
+Dan has been working with WordPress since about 2009 and has loved every MINUTE_IN_SECONDS of it. He has been a freelancer, in-house developer, and remote employee. When he is not coding, Dan spends time working on his house, playing with his 2 Siberian Huskies, and helping people learn WordPress development through speaking, mentoring. <a href="http://addactiondan.me">blog</a>
